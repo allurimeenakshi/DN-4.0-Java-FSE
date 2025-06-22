@@ -86,6 +86,6 @@ While linear search can be useful for small or dynamically changing datasets whe
 
 **Conclusion:** Binary search is the better choice for scalable search functionality in an e-commerce context, provided the dataset is kept sorted.
 
----
+
 
 
