@@ -6,7 +6,7 @@ Welcome to my repository for the **CTS Digital Nurture 4.0 - Deep Skilling Progr
 
 ## 🚀 Program Overview
 
-The **Java FSE Deep Skilling Program** is a comprehensive, hands-on learning path that spans core engineering concepts, advanced programming skills, frameworks, and real-world project implementation.
+The Java FSE Deep Skilling Program is a comprehensive, hands-on learning path that covers core engineering concepts, advanced programming skills, and relevant frameworks.
 
 ### ✨ Key Skills Covered
 
