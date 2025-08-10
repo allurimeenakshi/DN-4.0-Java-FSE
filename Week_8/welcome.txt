@@ -1,4 +1,0 @@
-Project: GitDemo
-Purpose: Learning basic Git commands and workflow.
-Author: Meenakshi Alluri
-Date: 10-Aug-2025
